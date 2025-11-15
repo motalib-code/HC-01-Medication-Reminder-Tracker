@@ -1,5 +1,5 @@
-# SwasthSetu - Rural Healthcare Bridge Platform 🏥
-
+#MedAssist Guardians: Conversational AI Medication Reminder & Tracker for Elderly🏥
+(HC-01: Medication Reminder & Tracker)
 <div align="center">
 
 ![SwasthSetu Logo](https://img.shields.io/badge/SwasthSetu-Healthcare-blue?style=for-the-badge)
@@ -309,3 +309,4 @@ Built with ❤️ by the SwasthSetu Team for rural healthcare in India.
 [⬆ Back to Top](#swasthsetu---rural-healthcare-bridge-platform-)
 
 </div>
+
